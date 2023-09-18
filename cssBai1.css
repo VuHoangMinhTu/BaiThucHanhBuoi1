@@ -1,0 +1,36 @@
+.header {
+  width: 50%;
+  height: 100px;
+  background-color: darkgray;
+  border-color: black;
+  border: 2px solid black;
+}
+
+.content {
+  display: flex;
+  width: 636px;
+}
+
+.content_section {
+  margin-left: 1px;
+  width: 75%;
+  height: 120px;
+
+  border: 1px solid black;
+}
+
+.index {
+  background-color: rgba(238, 255, 0, 0.46);
+  width: 25%;
+  height: 120px;
+  border: 1px solid black;
+}
+.footer {
+  width: 636px;
+  height: 20px;
+  background-color: rgba(128, 128, 128, 0.87);
+ border: 1px solid black ;
+  display: inline-block;
+  text-align: center;
+}
+
